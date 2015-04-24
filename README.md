@@ -3,3 +3,7 @@ wordcount is a program that counts the instances of a particular word in a line 
 It was created with much love by Jim Patt.
 
 Please use responsibly.
+
+You are not granted rights or licenses to the trademarks of wordcount, including without limitation the Jim Patt name or logo.
+
+Copyright 2015 Jim Patt.
